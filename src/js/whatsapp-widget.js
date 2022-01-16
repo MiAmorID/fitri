@@ -12,7 +12,7 @@ let paramsDefault = {
         text: 'Open chat'
     },
     optionsBot: {
-        name: 'Bot',
+        name: 'Fitri Oktavia',
         image: 'https://img.icons8.com/plasticine/2x/bot.png',
         messageDefault: 'Hi, 👋 saya Fitri Oktavia, ada bisa yang di bantu?',
         messageTyping: 'is typing...'
