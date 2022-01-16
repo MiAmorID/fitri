@@ -8,13 +8,13 @@ let paramsDefault = {
         color: '#FFFFFF'
     },
     optionsChat: {
-        buttonTarget: `https://api.whatsapp.com/send?phone=+55479999999999&text=${encodeURIComponent("Hello everyone")}`,
+        buttonTarget: `https://api.whatsapp.com/send?phone=+6283157147332&text=${encodeURIComponent("Hello Fitri, Nama Saya...")}`,
         text: 'Open chat'
     },
     optionsBot: {
         name: 'Bot',
         image: 'https://img.icons8.com/plasticine/2x/bot.png',
-        messageDefault: 'Hi, 👋 how can I help you?',
+        messageDefault: 'Hi, 👋 saya Fitri Oktavia, ada bisa yang di bantu?',
         messageTyping: 'is typing...'
     }
 }
