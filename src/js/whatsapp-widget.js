@@ -13,7 +13,7 @@ let paramsDefault = {
     },
     optionsBot: {
         name: 'Fitri Oktavia',
-        image: 'https://img.icons8.com/plasticine/2x/bot.png',
+        image: 'https://ik.imagekit.io/fitri/fitri_G33FBoq5h.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1642341425857',
         messageDefault: 'Hi, 👋 saya Fitri Oktavia, ada bisa yang di bantu?',
         messageTyping: 'is typing...'
     }
